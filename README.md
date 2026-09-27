@@ -44,15 +44,16 @@ Aqui está a demonstração visual do **LION APP** rodando diretamente na interf
 
 ### 1. Dados do Titular
 Campos de cadastro obrigatórios e máscaras de dados automáticas em funcionamento.
-![Dados do Titular](captura.png)
+![Dados do Titular](Capturar.PNG)
 
 ### 2. Informes de Rendimentos Bancários
 Painel com os bancos e o cálculo consolidado de saldos automáticos.
-![Informes de Rendimentos](captura%201.png)
+![Informes de Rendimentos](Capturar1.PNG)
 
 ### 3. Notas Bancárias e Extratos de Holerites
 Controle de entradas mensais integrado aos links de navegação rápida.
-![Notas Bancárias](captura%202.png)
+![Notas Bancárias](Capturar2.PNG)
+
 
 ---
 
